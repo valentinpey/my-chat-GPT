@@ -4,7 +4,7 @@ from tkinter import scrolledtext
 
 #le code suivant permet de recréer un chat GPT depuis GPT 3.5, en renvoyant toutes les infos précédentes au model
 ## une interface basic permet de faire une mimique de chatgpt
-openai.api_key = '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'
+openai.api_key = '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'
 
 conversation = []
 
